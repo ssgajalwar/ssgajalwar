@@ -14,6 +14,9 @@ I am currently in **Deep Build Mode**, engineering the next generation of creati
 🔮 **Forecasting Agents** - [Work in Progress]
 > *Building autonomous agents for predictive analytics and demand planning.*
 
+📝 **FlowNote** — Modern AI-Ready Notes Platform
+> *FlowNote is a modern, high-performance note-taking application inspired by lightweight knowledge systems like Memos, built with a scalable full-stack architecture.*
+
 ---
 
 ### ⚡ Tech Stack
