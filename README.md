@@ -1,10 +1,32 @@
-- 👋 Hi, I’m shreenath gajalwar
-- 👀 I’m interested in web devlopment and machine learning
-- 🌱 I’m currently learning Nodejs
-- 💞️ I’m looking to collaborate on javascript and Reactjs
-- 📫 How to reach me shreenathgajalwar@gmail.com
+### Hi, I'm Shree 👋
 
-<!---
-ssgajalwar/ssgajalwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📍 **Pune, India** | 🚀 **Software Engineer** | 🤖 **AI & Agentic Systems**
+
+I am currently in **Deep Build Mode**, engineering the next generation of creative tools and predictive agents.
+
+---
+
+### 🛠️ What I'm Building
+
+✨ **Lumora** - A real-time generative AI workspace.
+> *Bringing high-fidelity image synthesis and creative upscaling to the browser with React & FastAPI.*
+
+🔮 **Forecasting Agents** - [Work in Progress]
+> *Building autonomous agents for predictive analytics and demand planning.*
+
+---
+
+### ⚡ Tech Stack
+* **Core:** Python, JavaScript, Java
+* **Frameworks:** React.js, FastAPI, Django
+* **AI/Cloud:** Azure, Agentic Workflows, LLM Integration
+
+---
+
+### 🧠 Philosophy
+* **Ship at inference speed.**
+* **Agents > Static Tools.**
+* **Predict the future by building it.**
+
+---
+*Open to collaborating on Generative AI and Quantum Computing projects.*
