@@ -16,6 +16,7 @@ I am currently in **Deep Build Mode**, engineering the next generation of creati
 
 📝 **FlowNote** — Modern AI-Ready Notes Platform
 > *FlowNote is a modern, high-performance note-taking application inspired by lightweight knowledge systems like Memos, built with a scalable full-stack architecture.*
+> *URL:https://myflownote.vercel.app*
 
 ---
 
