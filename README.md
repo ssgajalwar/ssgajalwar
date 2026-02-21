@@ -8,12 +8,19 @@ I am currently in **Deep Build Mode**, engineering the next generation of creati
 
 ### 🛠️ What I'm Building
 
-✨ **Lumora** — A real-time generative AI workspace.
-🔮 **Quantis** — Advanced forecasting & analytics engine (Work in Progress)
-📝 **FlowNote** — Modern AI-Ready Notes Platform
-💻 **FullStack Pro** — Comprehensive full-stack development documetation platform
-⚔️ **Anime Arena** — Anime-inspired competitive gaming experience
-🌍 **RemoteRise** — Remote job discovery & career growth platform
+✨ **Lumora**  
+A real-time generative AI workspace.
+🔮 **Quantis**  
+Advanced forecasting & analytics engine *(Work in Progress)*
+📝 **FlowNote**  
+Modern AI-Ready Notes Platform.
+💻 **FullStack Pro**  
+Comprehensive full-stack development documentation platform.
+⚔️ **Anime Arena**  
+Anime-inspired competitive gaming experience.
+🌍 **RemoteRise**  
+Remote job discovery & career growth platform.
+
 ---
 
 ### ⚡ Tech Stack
