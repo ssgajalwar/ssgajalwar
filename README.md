@@ -11,7 +11,7 @@ I am currently in **Deep Build Mode**, engineering the next generation of creati
 ✨ **Lumora** - A real-time generative AI workspace.
 > *Bringing high-fidelity image synthesis and creative upscaling to the browser with React & FastAPI.*
 
-🔮 **Forecasting Agents** - [Work in Progress]
+🔮 **Quantis** - [Work in Progress]
 > *Building autonomous agents for predictive analytics and demand planning.*
 
 📝 **FlowNote** — Modern AI-Ready Notes Platform
