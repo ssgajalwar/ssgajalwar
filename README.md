@@ -8,16 +8,12 @@ I am currently in **Deep Build Mode**, engineering the next generation of creati
 
 ### 🛠️ What I'm Building
 
-✨ **Lumora** - A real-time generative AI workspace.
-> *Bringing high-fidelity image synthesis and creative upscaling to the browser with React & FastAPI.*
-
-🔮 **Quantis** - [Work in Progress]
-> *Building autonomous agents for predictive analytics and demand planning.*
-
+✨ **Lumora** — A real-time generative AI workspace.
+🔮 **Quantis** — Advanced forecasting & analytics engine (Work in Progress)
 📝 **FlowNote** — Modern AI-Ready Notes Platform
-> *FlowNote is a modern, high-performance note-taking application inspired by lightweight knowledge systems like Memos, built with a scalable full-stack architecture.*
-> *URL:https://myflownote.vercel.app*
-
+💻 **FullStack Pro** — Comprehensive full-stack development documetation platform
+⚔️ **Anime Arena** — Anime-inspired competitive gaming experience
+🌍 **RemoteRise** — Remote job discovery & career growth platform
 ---
 
 ### ⚡ Tech Stack
